@@ -9,7 +9,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/yonis-nouh-a89124157/",
   twitter: "https://twitter.com/NouhYonis",
   insta: "https://www.instagram.com/yoniz_nouh/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "https://www.facebook.com/yonis7881/",
 };
 
 export const skills = [
@@ -242,23 +242,11 @@ export const projects = [
     description:
       "Game-hub is a software program that allows users to access a large collection of games from rawg.io, a popular online platform for video game enthusiasts. Game-hub also provides features such as reviews, recommendations, and social media integration. Game-hub is designed to be user-friendly, fast, and secure.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-ffd8b.appspot.com/o/Screenshot%202024-02-19%20094908.png?alt=media&token=cfa51d4f-cb2a-4ab6-b979-cf233eeceaa7",
+    tags: ["React JS", "Vite", "TyeScript", "BootStrap", "Chakra UI"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/YuhanaZ/game-hub",
+    webapp: "https://game-hub-tan-eight.vercel.app/",
   },
   {
     id: 0,
@@ -267,7 +255,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://private-user-images.githubusercontent.com/83531807/293690976-eed8baed-c542-42ce-b2f5-6649cacad0bf.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxOTg0ODAsIm5iZiI6MTcwNDE5ODE4MCwicGF0aCI6Ii84MzUzMTgwNy8yOTM2OTA5NzYtZWVkOGJhZWQtYzU0Mi00MmNlLWIyZjUtNjY0OWNhY2FkMGJmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDEyMjMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1MGIyMTNiYmVlODU4MGU3MzQyNDg5OTE3ZWQ4ZTdhMzMzYjVkMTQ1MDQxZDU0OTIxZGExYTIzZWE1OTQzMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y3mnA-shtrMAmnoF2eF-XU32yJbfmxe8w88W_lAyYVk",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
@@ -367,7 +355,7 @@ export const projects = [
     description:
       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-ffd8b.appspot.com/o/6878372.jpg?alt=media&token=38366b86-7792-41cc-ba74-d0d5006a46f7",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
