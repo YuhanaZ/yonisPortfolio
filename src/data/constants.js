@@ -255,7 +255,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://private-user-images.githubusercontent.com/83531807/293690976-eed8baed-c542-42ce-b2f5-6649cacad0bf.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxOTg0ODAsIm5iZiI6MTcwNDE5ODE4MCwicGF0aCI6Ii84MzUzMTgwNy8yOTM2OTA5NzYtZWVkOGJhZWQtYzU0Mi00MmNlLWIyZjUtNjY0OWNhY2FkMGJmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDEyMjMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1MGIyMTNiYmVlODU4MGU3MzQyNDg5OTE3ZWQ4ZTdhMzMzYjVkMTQ1MDQxZDU0OTIxZGExYTIzZWE1OTQzMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y3mnA-shtrMAmnoF2eF-XU32yJbfmxe8w88W_lAyYVk",
+      "https://res.cloudinary.com/drseeuivb/image/upload/v1732600215/z89hrh4luk7orzkourp1.jpg",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
