@@ -255,7 +255,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://res.cloudinary.com/drseeuivb/image/upload/v1732600215/z89hrh4luk7orzkourp1.jpg",
+      "https://qwgphkfztoeoyscszeyi.supabase.co/storage/v1/object/public/yonis/callendar.jpg",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
